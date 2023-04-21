@@ -14,8 +14,9 @@ Run "make my_ngram" in the command line to create object and binary executable f
 Run `./my_ngram string` to analyze string argument
 ./my_project argument1 argument2
 ```
-<p>
+
 ### The Core Team
+<p>
 A project of two participants: <a href='https://upskill.us.qwasar.io/users/ogundain_g'>and</a> <a href='https://upskill.us.qwasar.io/users/oyewumi_o'<a/> 
  <span><i>Under the supervision of<a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span><span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
 <span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
